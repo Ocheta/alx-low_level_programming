@@ -2,6 +2,6 @@
 
 int main(){
 	printf("meenahlearningc")
-		return 0;
+		; return 0
 
 }
