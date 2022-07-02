@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-printf("second attempt at c")
+printf("still coding in c language")
 return 0;
 
 }
