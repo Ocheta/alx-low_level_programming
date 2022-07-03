@@ -2,7 +2,8 @@
 
 /**
  * main- a C program using printf
- * return- always 0 (success)
+ *
+ * Return: 0 after printing the function
  */
 int main(void)
 {
