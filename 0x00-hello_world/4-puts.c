@@ -1,9 +1,11 @@
 #include <stdio.h>
 
-/*
+/**
  *  main - Entry point
  *
- *  return - Always 0 (Success)
+ * Description: "C program that uses puts function to print a statement"
+ *
+ *  Return - Always 0 (Success)
  */
 
 int main(void)
