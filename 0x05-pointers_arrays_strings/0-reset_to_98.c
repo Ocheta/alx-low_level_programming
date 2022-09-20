@@ -2,7 +2,7 @@
 
 /*
  * Reset - changes the value of an integer to 98
- * *n : Changes a variable value to 98
+ * Description : Changes a variable value to 98
  * Return : 0
  */
 
