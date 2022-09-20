@@ -1,4 +1,4 @@
-#include main.h
+#include "main.h"
 
 /*
  * Reset: changes the value of an integer to 98
