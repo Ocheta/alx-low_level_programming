@@ -9,6 +9,7 @@
 void _puts(char *str)
 {
 	int mee = 0;
+
 	while (*(str + mee) != '\0')
 	{
 		_putchar(*(str + mee));
